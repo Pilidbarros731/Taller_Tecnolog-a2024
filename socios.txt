@@ -1,0 +1,19 @@
+#Archivo de almacenamieto de datos
+Pilar de Barros,55294751,Tina,10,pilidbarros@gmail.com
+Pilar de Barros,55294751,Tina,10,pilidbarros@gmail.com
+Pilar de Barros,55294751,Tina,10,pilidbarroscabrera@gmail.com
+[D[D[D[D[D[D[DPilar de Barros,55294751,Tina,10,pilidbarros@gmail.com
+Pili,55294751,Tina,10},pili@gmail.com
+Pilar,5594751,Tina,10,pilidb@gmail.com
+Pilar,55294751,Tina,10,pil@gmail.com
+pili,55294751,Tina,10,pdb@gmail.com
+Pili,55294751,10,[A[A[CTina[B[B[D[D[D[D10,pildbarros@gmail.com
+Pilar de Barros,55294751,Tina,10,PilidBarros@gmail.com
+Pili,55294751,Tina,10,pilidb@gmail.com
+pilar,5294751,Tina,10,pilidb@gmail
+pili,55294751,Tina,10,pildb@gmail.com
+pili,55294751,Tina,10,pilidbarros@gmail.com
+Pilar de Barros,55294751,Tina,10,pilidbarros@gmail.com
+Pili de Barros,55294751,Tina,10,pilidbarros@gmail.com
+Pili,55294751,Tina,10,pilidbarros@gmail.com
+Pilar de Barros,55294751,Tina,10,pilidbarros@gmail.com
